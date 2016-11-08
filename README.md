@@ -1,3 +1,14 @@
+# Lab project to show error with tests
+
+## Usage
+
+`yarn`
+`npm test`
+
+
+### (Next docs are the originals)
+
+
 # NativeBase-KitchenSink v0.5.11
 An example app with all the UI components of NativeBase
 
