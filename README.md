@@ -6,6 +6,9 @@
 
 `npm test`
 
+## Error
+
+![error-screenshot](https://i.imgur.com/fOMGEUD.png)
 
 ### (Next docs are the originals)
 
